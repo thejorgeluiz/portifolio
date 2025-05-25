@@ -8,28 +8,40 @@ const Projetos = () => (
     <Titulo fontSize={16} >Projetos</Titulo>
     <Lista>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
       </li>
       <li>
-        <Projeto/>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
       </li>
     </Lista>
   </section>
